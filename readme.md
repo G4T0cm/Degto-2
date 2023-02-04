@@ -1,5 +1,5 @@
 # DegToº2
-
+![alt text](https://cdn.discordapp.com/attachments/524964997860818944/1071567423473463296/image.png)
 ## Description
 
 Metadate extractor & GPS locator
