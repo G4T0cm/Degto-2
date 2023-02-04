@@ -20,7 +20,8 @@ Metadate extractor & GPS locator
 ```python3 DegToº2.py```
 
 * Insert the path to the image or drop the image in the program folder and write the file name
-
+##Output Example:
+![alt text](https://media.discordapp.net/attachments/524964997860818944/1071568244810453155/image.png)
 ## Authors
 * G4T0
 
