@@ -13,11 +13,11 @@ Metadate extractor & GPS locator
 ### Installing
 
  Linux  
-git clone https://https://github.com/G4T0cm/DegTo-2
+```git clone https://https://github.com/G4T0cm/DegTo-2```
   
 ### Executing program
 
-python3 DegToº2.py
+```python3 DegToº2.py```
 
 * Insert the path to the image or drop the image in the program folder and write the file name
 
