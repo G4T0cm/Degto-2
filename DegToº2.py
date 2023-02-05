@@ -78,6 +78,7 @@ if os.path.exists("requirements.txt"):
         else:
             prGreen("geopy is already installed.")
             prGreen("piexif is already installed.")
+            prGreen("tqdm is already installed.")
 
 import re
 from geopy.geocoders import Nominatim
