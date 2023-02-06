@@ -13,7 +13,7 @@ Metadate extractor & GPS locator
 ### Installing
 
  Linux  
-```git clone https://https://github.com/G4T0cm/DegTo-2```
+```git clone https://github.com/G4T0cm/DegTo-2```
   
 ### Executing program
 
