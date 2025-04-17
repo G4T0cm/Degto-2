@@ -25,6 +25,7 @@ Metadate extractor & GPS locator
 ![alt text](https://media.discordapp.net/attachments/524964997860818944/1071568244810453155/image.png)
 ## Authors
 * G4T0
+* Frodox13
 
 ## Version History
 * 0.1
